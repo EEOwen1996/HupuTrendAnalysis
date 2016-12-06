@@ -1,0 +1,2 @@
+# HupuTrendAnalysis
+Just for fun!
